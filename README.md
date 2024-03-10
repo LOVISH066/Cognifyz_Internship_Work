@@ -1,1 +1,1 @@
-# Cognifyz_Internship_Work
+# Software Development Internship
